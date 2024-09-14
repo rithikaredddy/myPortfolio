@@ -56,12 +56,6 @@ The application will open on `http://localhost:3000` in your browser.
 ## Usage
 After installing the dependencies and starting the server, you can explore the portfolio, view projects, and modify content in the `src` folder.
 
-## Screenshots
-![Portfolio Screenshot](link_to_screenshot.png)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 If you have any questions or suggestions, feel free to reach out to me:
 
